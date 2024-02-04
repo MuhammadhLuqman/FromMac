@@ -18,7 +18,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BrokenLinksPractice {
 	
-	
+	//legend da
 	public static void main(String[]args) throws IOException {
 		
 		WebDriverManager.chromedriver().setup();
