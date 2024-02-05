@@ -15,7 +15,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class practiceHYR {
-//try da 
+
 	public static void main(String[] args) throws InterruptedException {
 		WebDriverManager.chromedriver().setup();
 		
