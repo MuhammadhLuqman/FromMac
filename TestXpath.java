@@ -5,7 +5,11 @@ import java.awt.Robot;
 import java.awt.event.KeyEvent;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
+<<<<<<< HEAD
 //do da dai
+=======
+//do it man
+>>>>>>> her-branch
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
